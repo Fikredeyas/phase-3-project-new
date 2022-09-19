@@ -1,0 +1,77 @@
+{
+    "electronics": [
+      {
+        "id": 1,
+        "name": "Camera",
+        "image": "./images/aloe.jpg",
+        "price": 460.00,
+        "inCart": true
+      },
+      {
+        "id": 2,
+        "name": "Tv",
+        "image": "./images/zz-plant.jpg",
+        "price": 2000.00
+      },
+      {
+        "id": 3,
+        "name": "Apple Watch",
+        "image": "./images/pilea.jpg",
+        "price": 300.00
+      },
+      {
+        "id": 4,
+        "name": "Apple Laptop",
+        "image": "./images/pothos.jpg",
+        "price": 1200.00
+      },
+      {
+        "id": 5,
+        "name": "Windows Laptop",
+        "image": "./images/jade.jpg",
+        "price": 700.00
+      },
+      {
+        "id": 6,
+        "name": "PlayStation 4",
+        "image": "./images/monstera.jpg",
+        "price": 400.00
+      },
+      {
+        "id": 7,
+        "name": "Xbox One",
+        "image": "./images/fiddle-leaf-fig.jpg",
+        "price": 400.00
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 5",
+        "image": "./images/monstera.jpg",
+        "price": 800.00
+      },{
+        "id": 9,
+        "name": "Xbox Series X",
+        "image": "./images/monstera.jpg",
+        "price": 800.00
+      },
+      {
+        "id": 10,
+        "name": "AirPod",
+        "image": "./images/monstera.jpg",
+        "price": 100.00
+      },
+      {
+        "id": 11,
+        "name": "AirPod Pro",
+        "image": "./images/monstera.jpg",
+        "price": 300.100
+      },
+      {
+        "id": 12,
+        "name": "PlayStation 4 controller ",
+        "image": "./images/monstera.jpg",
+        "price": 60.00
+      }
+    ]
+  }
+  
